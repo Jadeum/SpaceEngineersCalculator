@@ -1,0 +1,2 @@
+Each CSV here is structured with the name of the component, ingot, or type of ammunition on the left, and then their credit value on the right side. It's converted into the value but I forget how I did it so im assuming it calculates the currency with the number of components. I don't have KG weight included but I could rewrite this code to calculate those values later.
+shrugs at camera
